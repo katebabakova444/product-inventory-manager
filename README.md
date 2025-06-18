@@ -1,30 +1,30 @@
-## 🧾 Product Inventory Manager
+## Product Inventory Manager
 
 A Python CLI tool to manage inventory from a CSV file.
 It helped me practice file handling, data processing, and clean output formatting — essential for building real-world backend tools.
 
 ⸻
 
-## 🎯 Why I Built This
+## Why I Built This
 
 At this point in my learning, I wanted to move beyond CLI logic and try working with external files and structured data.
 This was the first time I loaded .csv data into memory, applied calculations, and displayed it with formatting.
 
 ⸻
 
-## ✨ Features
+## Features
 - Load product data from products.csv
 - Display all products with clean, aligned output
 - Search products by name (case-insensitive)
 - Calculate total inventory value (price × quantity)
 
-## 🧠 Tech & Concepts
+## Tech & Concepts
 - Python OOP (classes, instance methods, attribute access)
 - File I/O with the csv module
 - String formatting for clean CLI output
 - Basic error handling and data validation
 
-## 📁File Structure
+## File Structure
 
 ```
 product_manager/
@@ -35,7 +35,7 @@ product_manager/
 └── README.md            # Project description
 ```
 
-## ▶️How to Run
+## How to Run
 
 1. Make sure you have Python 3 installed.
 2. Place the `products.csv` file in the same directory as the Python files.
@@ -61,7 +61,7 @@ Total inventory value:
 $2949.25
 ```
 
-## 👩‍💻 Author
+## Author
 
 Created by Kateryna Babakova (https://github.com/katebabakova444)
 This project is part of my backend development journey.
